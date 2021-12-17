@@ -30,9 +30,7 @@ public class Ejercicio03 {
             if (arreglo[i] < media) {
                 elementosAbajoMedia = elementosAbajoMedia + 1;
             } else {
-                if (arreglo[i] < media) {
                     elementosArribaMedia = elementosArribaMedia + 1;
-                }
             }
 
         }
